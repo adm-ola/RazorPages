@@ -39,7 +39,7 @@ namespace RazorPagesMovie.Models
 
                     new Movie
                     {
-                        Title = "The Good, The Bad and the Ugly",
+                        Title = "The Good, The Bad and the Ugly 2",
                         ReleaseDate = DateTime.Parse("1975-2-23"),
                         Genre = "Comedy",
                         Price = 9.99M
