@@ -39,7 +39,7 @@ namespace RazorPagesMovie.Models
 
                     new Movie
                     {
-                        Title = "The Good",
+                        Title = "The Good Again",
                         ReleaseDate = DateTime.Parse("1975-2-23"),
                         Genre = "Comedy",
                         Price = 9.99M
