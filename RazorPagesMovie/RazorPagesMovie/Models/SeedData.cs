@@ -31,7 +31,7 @@ namespace RazorPagesMovie.Models
 
                     new Movie
                     {
-                        Title = "Ghostbusters ",
+                        Title = "The Lone Ranger",
                         ReleaseDate = DateTime.Parse("1984-3-13"),
                         Genre = "Comedy",
                         Price = 8.99M
@@ -39,7 +39,7 @@ namespace RazorPagesMovie.Models
 
                     new Movie
                     {
-                        Title = "The Good Again 123",
+                        Title = "The Good Again",
                         ReleaseDate = DateTime.Parse("1975-2-23"),
                         Genre = "Comedy",
                         Price = 9.99M
