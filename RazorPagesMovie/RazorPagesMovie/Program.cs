@@ -24,7 +24,7 @@ namespace RazorPagesMovie
                     var context = services.
                         GetRequiredService<RazorPagesMovieContext>();
                     context.Database.Migrate();
-                    //Load seed data if DB is empty
+                    //Load seed data if DB is empty quick change
                     SeedData.Initialize(services);
                 }
                 catch (Exception ex)
