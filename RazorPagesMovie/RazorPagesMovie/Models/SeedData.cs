@@ -49,7 +49,7 @@ namespace RazorPagesMovie.Models
                     {
                         Title = "Django",
                         ReleaseDate = DateTime.Parse("2008-4-15"),
-                        Genre = "Western",
+                        Genre = "Western Horse back",
                         Price = 3.99M
                     }
                 );
