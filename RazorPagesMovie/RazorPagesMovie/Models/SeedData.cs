@@ -39,8 +39,8 @@ namespace RazorPagesMovie.Models
 
                     new Movie
                     {
-                        Title = "Good Bad Ugly",
-                        ReleaseDate = DateTime.Parse("1986-2-23"),
+                        Title = "The Good, The Bad and the Ugly44",
+                        ReleaseDate = DateTime.Parse("1975-2-23"),
                         Genre = "Comedy",
                         Price = 9.99M
                     },
@@ -49,7 +49,7 @@ namespace RazorPagesMovie.Models
                     {
                         Title = "Django",
                         ReleaseDate = DateTime.Parse("2008-4-15"),
-                        Genre = "Western",
+                        Genre = "Western Horse back",
                         Price = 3.99M
                     }
                 );
