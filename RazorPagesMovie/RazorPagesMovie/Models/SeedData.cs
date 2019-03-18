@@ -31,7 +31,7 @@ namespace RazorPagesMovie.Models
 
                     new Movie
                     {
-                        Title = "The Lone Ranger Again",
+                        Title = "The Lone Ranger",
                         ReleaseDate = DateTime.Parse("1984-3-13"),
                         Genre = "Comedy",
                         Price = 8.99M
