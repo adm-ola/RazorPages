@@ -23,7 +23,7 @@ namespace RazorPagesMovie.Models
                 context.Movie.AddRange(
                     new Movie
                     {
-                        Title = "The Walking Dead",
+                        Title = "The Walking Dead 5",
                         ReleaseDate = DateTime.Parse("2009-2-12"),
                         Genre = "Horror",
                         Price = 7.99M
